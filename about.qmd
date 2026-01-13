@@ -19,7 +19,7 @@ and how to use R for reproducible data manipulation and visualization.
 
 If you are affiliated with Ohio State University in any capacity,
 you can attend this workshop for free by
-[registering here](https://library.osu.edu/events/r-for-scientific-reproducibility-virtual-event-1). You can find some more information about the workshop [here](https://imageomics.github.io/2025-08-15-osu-online/).
+[registering here](https://library.osu.edu/events/version-control-with-git ). You can find some more information about the workshop [here](https://imageomics.github.io/2026-02-09-osu-online/).
 
 There are no prerequisites: this workshop is suitable for complete beginners
 in R and in coding in general.
@@ -41,17 +41,15 @@ This workshop is taught by the organizers of [OSU Code Club](https://osu-codeclu
   [Horticulture & Crop Science](https://hcs.osu.edu),
   and [Food Science & Technology](https://fst.osu.edu)
 
-The following **helpers** will be assisisting participants:
+The following **helpers** will be assisting participants:
 
 - Hannah Toth
 - Menuka Bhandari
-- Dhanashree
-- Deepa Dhungana
 - Kelsey Badger
 - Matthew Thompson
 - Elizabeth Campolongo
-- Josh Wang
 - Net Zhang
+- Jay
 
 This workshop is organized by **Kelsey Badger** at the
 [OSU Research Commons](https://library.osu.edu/researchcommons), and
@@ -70,5 +68,5 @@ The material on this website has been adapted from the
 [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
 Software Carpentry lesson.
 
-A [sister workshop](https://imageomics.github.io/2025-08-15-osu-online/)
-is being held on August 15^th^ on version control with Git and GitHub.
+A [sister workshop](https://library.osu.edu/events/version-control-with-git)
+is being held on February 9^th^ on version control with Git and GitHub.

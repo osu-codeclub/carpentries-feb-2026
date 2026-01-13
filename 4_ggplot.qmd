@@ -1,7 +1,7 @@
 ---
-title: "Creating publication quality graphics with ggplot2"
+title: "Creating publication quality graphics with `ggplot2`"
 author: "Software Carpentry / Jessica Cooperstone"
-date: 2025-08-18
+# date: 2025-08-18
 editor_options: 
   chunk_output_type: console
 ---
@@ -24,7 +24,7 @@ Simplified, we will provide to R:
 
 -   our data
 -   aesthetics mapped to variables - what connects the data to the graphics
--   layers - determine which type of plot we are going to make, what cordinate system we will use, what scales we want, and other important aspects of our plot
+-   layers - determine which type of plot we are going to make, what coordinate system we will use, what scales we want, and other important aspects of our plot
 
 You can think about a ggplot as being composed of layers. You start with your data, and continue to add layers until you get the plot that you want. This might sound a bit abstract so I am going to talk through this with an example.
 

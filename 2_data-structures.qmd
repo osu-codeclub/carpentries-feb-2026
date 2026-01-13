@@ -1,7 +1,7 @@
 ---
 title: "R's data structures and data types"
 author: "Software Carpentry / Jelmer Poelstra"
-date: 2025-08-18
+# date: 2025-08-18
 editor_options: 
   chunk_output_type: console
 ---

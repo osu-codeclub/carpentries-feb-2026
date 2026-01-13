@@ -4,8 +4,8 @@ project:
 
 website:
   title: "R Workshop"
-  site-url: https://osu-codeclub.github.io/carpentries-aug-2025
-  repo-url: https://github.com/osu-codeclub/carpentries-aug-2025
+  site-url: https://osu-codeclub.github.io/carpentries-feb-2026
+  repo-url: https://github.com/osu-codeclub/carpentries-feb-2026
   page-navigation: true
   back-to-top-navigation: true
   navbar:
@@ -25,8 +25,10 @@ website:
         menu:
         - text: OSU Code Club {{< fa external-link >}}
           href: https://osu-codeclub.github.io
+        - text: Full Carpentries workshop page {{< fa external-link >}}
+          href: https://imageomics.github.io/2026-02-09-osu-online/         
         - text: Sister workshop on Version Control with Git {{< fa external-link >}}
-          href: https://library.osu.edu/events/version-control-with-git-virtual-event-1
+          href: https://library.osu.edu/events/version-control-with-git
         - text: Other OSU coding activities {{< fa external-link >}}
           href: https://osu-codeclub.github.io/pages/other.html          
         - text: "------------------"
@@ -45,9 +47,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            url:  https://github.com/osu-codeclub/carpentries-aug-2025
+            url:  https://github.com/osu-codeclub/carpentries-feb-2026
           - text: Report an Issue
-            url:  https://github.com/osu-codeclub/carpentries-aug-2025/issues/new?template=Blank+issue
+            url:  https://github.com/osu-codeclub/carpentries-afeb-2026/issues/new?template=Blank+issue
 
 format:
   html:
