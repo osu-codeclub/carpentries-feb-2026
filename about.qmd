@@ -19,7 +19,7 @@ and how to use R for reproducible data manipulation and visualization.
 
 If you are affiliated with Ohio State University in any capacity,
 you can attend this workshop for free by
-[registering here](https://library.osu.edu/events/version-control-with-git ). You can find some more information about the workshop [here](https://imageomics.github.io/2026-02-09-osu-online/).
+[registering here](https://library.osu.edu/events/r-for-scientific-reproducibility). You can find some more information about the workshop [here](https://imageomics.github.io/2026-02-09-osu-online/).
 
 There are no prerequisites: this workshop is suitable for complete beginners
 in R and in coding in general.
