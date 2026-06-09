@@ -1,5 +1,7 @@
-# Ohio State R for Reproducible Research Carpentries Workshop February 13, 2026
-This is source repo for the website for the hands-on “R for Reproducibility” workshop taught at Ohio State University on February 12, 2026.
+# Ohio State R for Reproducible Research Carpentries Workshop 
+
+## February 13, 2026
+This is source repo for the website for the hands-on “R for Reproducibility” workshop taught at Ohio State University on February 13, 2026.
 
 This workshop is taught by the organizers of Ohio State's [Code Club](https://osu-codeclub.github.io/), Jelmer Poelstra, Horacio Lopez-Nicora, and Jessica Cooperstone.
 
