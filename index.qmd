@@ -1,6 +1,6 @@
 ---
 title: "Workshop on R for Reproducibility"
-subtitle: "Monday August 17^th^, 2026 --- Ohio State University"
+subtitle: "Friday February 13^th^, 2026 --- Ohio State University"
 toc: false
 number-sections: false
 ---

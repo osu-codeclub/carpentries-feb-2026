@@ -8,7 +8,7 @@ number-sections: false
 <hr style="height:1pt; visibility:hidden;" />
 
 *This is the website for the hands-on "R for Reproducibility" workshop taught at*
-*Ohio State University on August 18^th^, 2026.*
+*Ohio State University on February 13^th^, 2026.*
 
 ### Practical information about the workshop
 
@@ -19,7 +19,7 @@ and how to use R for reproducible data manipulation and visualization.
 
 If you are affiliated with Ohio State University in any capacity,
 you can attend this workshop for free by
-[registering here NEEDS UPDATING](https://library.osu.edu/events/r-for-scientific-reproducibility). You can find some more information about the workshop [here NEEDS UPDATING](https://imageomics.github.io/2026-08-17-osu-online/).
+[registering here](https://library.osu.edu/events/r-for-scientific-reproducibility). You can find some more information about the workshop [here](https://imageomics.github.io/2026-02-09-osu-online/).
 
 There are no prerequisites: this workshop is suitable for complete beginners
 in R and in coding in general.
@@ -43,7 +43,6 @@ This workshop is taught by the organizers of [OSU Code Club](https://osu-codeclu
 
 The following **helpers** will be assisting participants:
 
-NEEDS UPDATING
 - Neel Agarwal
 - Kelsey Badger
 - Menuka Bhandari

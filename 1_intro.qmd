@@ -8,7 +8,7 @@ author:
     affiliation: 
       - name: Plant Pathology, Ohio State University
         url: https://plantpath.osu.edu/our-people/horacio-lopez-nicora
-date: 2026-08-17
+date: 2026-02-13
 editor_options: 
   chunk_output_type: console
 ---
